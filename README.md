@@ -20,11 +20,12 @@ This repository contains the complete source files, LaTeX documents, simulations
 ---
 
 ## 📂 Repository Structure
-   📁 manuscripts/ # Main LaTeX documents (theory, proofs, formalism) 
-   📁 simulations/ # Scripts and data for mathematical/physical simulations
-   📁 figures/ # Diagrams, plots, and explanatory figures
-   📁 references/ # .bib files and scientific citations
-   📁 codes/ # Optional Python / symbolic computation scripts
+
+- 📁 manuscripts/ # Main LaTeX documents (theory, proofs, formalism) 
+- 📁 simulations/ # Scripts and data for mathematical/physical simulations
+- 📁 figures/ # Diagrams, plots, and explanatory figures
+- 📁 references/ # .bib files and scientific citations
+- 📁 codes/ # Optional Python / symbolic computation scripts
    
 ---
 
