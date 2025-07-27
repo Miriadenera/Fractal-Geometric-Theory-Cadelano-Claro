@@ -1,1 +1,14 @@
+# Simulations
+
+This folder contains scripts and configuration files related to the computational simulations of the Fractal Geometric Theory – Unified Framework.
+
+## Included Simulations
+
+- **Gradient dynamics** of the informational field ∇𝒦 over a discrete lattice
+- **5D N-body problem** under Higgs–torsion geometry (setup file included)
+
+## Structure
+
+- `gradient_dynamics.py` – Main Python script simulating ∇𝒦 evolution
+- `config_nbody.json` – Initial conditions for N-body simulations in 5D
 
